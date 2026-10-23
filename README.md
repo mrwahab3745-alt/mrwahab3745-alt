@@ -1,15 +1,20 @@
-# Hi there, I'm Wahab Ahmed 👋
+# Hi there, I'm Wahab Ahmad 👋
 
-> **Front-End & UI Developer👨‍💻** | Freelancer on Fiverr | BS Computer Science @ VU Pakistan🎓
+> **Front-End Web Developer 👨‍💻** | Freelancer on Fiverr | BS Computer Science @ VU Pakistan 🎓
 
-I build fast, responsive, and dynamic web applications with modern technologies. Passionate about solving complex problems through clean code and interactive UIs.
+I build fast, responsive, and dynamic web applications with modern technologies. Passionate about solving complex problems through clean code, modern web tools, and interactive UIs.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Cursor AI, Vercel, Supabase, Canva
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -21,10 +26,24 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 ---
 
-### ⚡ Quick Stats
+### ⚡ Live GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrwahab3745-alt&color=violet&style=for-the-badge)
+
+<br/>
+
+![Wahab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrwahab3745-alt&theme=midnight-purple&hide_border=true)
+
+<br/>
 
 ![Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwahab3745-alt&show_icons=true&theme=midnight-purple&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwahab3745-alt&layout=compact&theme=midnight-purple&hide_border=true)
+
+---
+
+### 🧩 Random Coding Joke
+
+![Jokes Card](https://readme-jokes-three.vercel.app/api?theme=midnight-purple)
 
 ---
 
