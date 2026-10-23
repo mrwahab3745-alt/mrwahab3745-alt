@@ -39,17 +39,12 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 ---
 
-### 🧩 Random Coding Joke
-
-![Jokes Card](https://readme-jokes-three.vercel.app/api?theme=midnight-purple)
-
----
 
 ### 📫 Connect With Me
 
-- **Portfolio:** [wahabislive.vercel.app](https://wahabislive.vercel.app/)
-- **Freelance:** [Fiverr Profile](https://www.fiverr.com/s/Q221wxy)
-- **LinkedIn:** [Wahab Ahmed](https://www.linkedin.com/in/wahab-ahmad-6a6514320/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wahabislive.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://wahabislive.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahab_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahab-ahmad-6a6514320/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Q221wxy)
 
 ---
 
