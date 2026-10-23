@@ -28,8 +28,6 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 ### ⚡ Live GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrwahab3745-alt&color=violet&style=for-the-badge)
-
 <br/>
 
 ![Wahab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrwahab3745-alt&theme=midnight-purple&hide_border=true)
