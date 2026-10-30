@@ -34,8 +34,6 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 <br/>
 
-[![wakatime](https://vercel.app)](https://github.com)
-
 ---
 
 
