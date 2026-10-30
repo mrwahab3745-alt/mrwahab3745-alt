@@ -34,7 +34,7 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwahab3745-alt&layout=compact&theme=midnight-purple&hide_border=true)
+![Top Languages](https://vercel.app)
 
 ---
 
