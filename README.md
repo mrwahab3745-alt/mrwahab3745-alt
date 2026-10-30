@@ -34,7 +34,7 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 <br/>
 
-![Top Languages](https://vercel.app)
+[![wakatime](https://vercel.app)](https://github.com)
 
 ---
 
