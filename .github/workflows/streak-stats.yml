@@ -5,21 +5,30 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-streak-stats@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           user: mrwahab3745-alt
-          output: streak.svg
+          output: ./streak.svg
           theme: midnight-purple
           hide_border: true
-      - name: Commit changes
+
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git status
           git add streak.svg
-          git commit -m "auto: update streak stats" || exit 0
+          git commit -m "auto: update streak stats svg" || echo "No changes to commit"
           git push
