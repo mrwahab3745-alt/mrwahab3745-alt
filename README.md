@@ -30,7 +30,7 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 <br/>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=mrwahab3745-alt&theme=midnight-purple&hide_border=true&show_icons=true)
 
 <br/>
 
