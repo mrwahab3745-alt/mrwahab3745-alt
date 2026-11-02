@@ -30,7 +30,8 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 <br/>
 
-![Wahab's GitHub Streak](https://streak-stats.demolab.com?user=mrwahab3745-alt&theme=midnight-purple&hide_border=true)
+![Wahab's GitHub Streak](./streak.svg)
+
 <br/>
 
 ---
