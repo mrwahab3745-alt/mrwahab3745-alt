@@ -30,7 +30,7 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 <br/>
 
-![Wahab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrwahab3745-alt&theme=midnight-purple&hide_border=true)
+
 
 <br/>
 
