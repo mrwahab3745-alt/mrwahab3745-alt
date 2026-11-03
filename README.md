@@ -26,16 +26,6 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 ---
 
-### ⚡ Live GitHub Analytics
-
-<br/>
-
-![Wahab's GitHub Streak](./streak.svg)
-
-<br/>
-
----
-
 
 ### 📫 Connect With Me
 
