@@ -21,7 +21,6 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 ### 💻 What I Do
 
 - 🌐 **Web Development:** Building custom front-end web applications.
-- ⚡ **Real-Time Systems:** Working with Socket.io & WebRTC for dynamic communication apps.
 - 📊 **Data & Algorithms:** Practicing Data Structures & Algorithms (C++).
 
 ---
