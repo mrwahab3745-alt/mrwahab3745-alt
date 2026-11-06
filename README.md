@@ -28,7 +28,7 @@ I build fast, responsive, and dynamic web applications with modern technologies.
 
 ### 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wahabislive.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://wahabahmad.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wahabahmad-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://wahabahmad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahab_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahab-ahmad-6a6514320/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Q221wxy)
 
